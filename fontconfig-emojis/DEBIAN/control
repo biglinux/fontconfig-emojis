@@ -1,0 +1,10 @@
+Package: fontconfig-emojis
+Version: 1.0.0-1big1
+Depends: fonts-noto-color-emoji
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:12
+Description: Configure system to use emojis from fonts-noto-color-emoji
+
